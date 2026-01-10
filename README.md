@@ -22,3 +22,7 @@ This project focuses on analyzing car pricing data using Power BI to uncover ins
 
 ## 📷 Dashboard Preview
 (Add screenshots here)
+## 📁 Project Files (Google Drive)
+
+- [Download Power BI PBIX File](## 📁 Project Files (https://drive.google.com/file/d/1MFUf-IFZc6AtZskPXCNaX99TgteSFxCK/view?usp=sharing)
+
